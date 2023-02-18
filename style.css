@@ -1,0 +1,20 @@
+#main {
+    border-radius: 15px;
+    color: white;
+    background: #91130a;
+    border: 4px #010101 solid;
+    padding: 50px;
+    width: 400px;
+    height: 600px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    margin-left: 25%;
+    opacity: 1;
+
+}
+
+.p {
+    size: 10px;
+}
+
