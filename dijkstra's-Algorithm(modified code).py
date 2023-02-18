@@ -1,4 +1,3 @@
-
 import sys
 
 from heapq import heapify, heappush, heappop
