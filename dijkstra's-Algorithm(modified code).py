@@ -1,4 +1,3 @@
-#modified Dijkstra's Algorithm code
 
 import sys
 
